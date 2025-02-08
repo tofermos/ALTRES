@@ -1,5 +1,5 @@
 ---
-title: GUIA RÀPIDA "ECOSIA.ORG"
+title: GUIA RÀPIDA *ECOSIA.ORG*
 subtitle: Caràcterístiques d'Ecosia i configuració per l'ús en Firefox, Chrome i Edge
 author: "@tofermos 2025"
 lang: "ca-ES"
@@ -32,17 +32,16 @@ L'aposta per la sostenibilitat i l'impacte positiu en el medi ambient d'este mot
 
 ### Plantació d’arbres
 
-- Ecosia destina els seus beneficis a la plantació d’arbres arreu del món. Aproximadament cada 45 cerques generen suficients ingressos per plantar un arbre.
+- Aproximadament cada 45 cerques generen suficients ingressos per plantar un arbre.
 
 ### Ús d’energies renovables
 
--   Ecosia utilitza el 100% dels seus ingressos publicitaris per finançar projectes verds i sostenibles.
--   Els seus servidors funcionen amb energia renovable. Fins i tot produeixen més electricitat neta de la que consumeixen.
+- Els seus servidors funcionen amb energia renovable. Fins i tot produeixen més electricitat neta de la que consumeixen.
 
 
 ### Reducció de la petjada de carboni
 
--   Mentre Ecosia treballa activament per compensar les emissions de CO₂, Google, per exemple té una gran petjada de carboni.
+-   Mentre Ecosia treballa activament per compensar les emissions de CO₂.
 
 ## 1.2 Per raons ètiques
 
@@ -67,14 +66,17 @@ L'aposta per la sostenibilitat i l'impacte positiu en el medi ambient d'este mot
 
 # 2 🔧  Configuració en navegadors
 
-Quan usem el buscador www.ecosia.org, el navegador usa el motor de búsqueda de ecosia idependentment del que tinguem configurat al navegador. Per a això establirem esta pàgina com la d'inici per defecte. 
+En les búsquedes, els navegadors (Firefox, Chrome, Edge...) usen un motor de cerca. L'objectiu és assegurar que usen el **motor de cerca d'Ecosia**.
 
-Independentment, configurarem el motor d'Ecosia per defecte al navegador ecara que hem de saber que si usem www.google.com, s'usará el motor de de google no el d'ecosia.
+* Quan usem el buscador www.ecosia.org, el navegador usa el motor d'Ecosia per a això establirem esta adreça com a **pàgina d'inici**
+* No obstant, també establirem com **motor per defecte** al navegador, el d'Ecosia. 
+
+Vegem estos dos canvis en cada navegador: Firefox, Chrome i Edge.
 
 
 ## 2.1 Navegador Firefox
 
-Entrem la configuració del navegador
+Entrem la configuració del navegador: **|||**  **Paràmetres**
 
 
 ![*Imatge 1: Opció paràmatres de Firefox*](png/1-Firefox-Parametres.png)
@@ -83,7 +85,7 @@ Entrem la configuració del navegador
 
 ### Motor de cerca predeterminat
 
-Una vegada estem en la configuració del navegador, busquem "motor" i seleccionem el que volem: ecosia.
+Una vegada estem en paràmetres, busquem "motor" i seleccionem el que volem: Ecosia.
 
 
 ![*Imatge 2: Motor de búsqueda en Firefox*](png/2-Firefox-Motor.png)
@@ -92,9 +94,9 @@ Una vegada estem en la configuració del navegador, busquem "motor" i seleccione
 
 ### Pàgina d'inici
 
-Per fer ús del buscador còmodament, a banda del motor, podem canviar la pàgina d'inici predeterminada.
+A banda del motor podem canviar la pàgina d'inici predeterminada.
 
-Des de l mateixa configuració ("paràmetres"), busquem "Inici" i escrivim la pàgina de ecosia.org
+Des de l mateixa opció de configuració *paràmetres*, ara busquem "Inici" i escrivim la pàgina de ecosia.org
 
 
 ![*Imatge 3: Pàgina d'inici en Firefox*](png/3-Firefox-Inici.png)
@@ -103,7 +105,7 @@ Des de l mateixa configuració ("paràmetres"), busquem "Inici" i escrivim la p�
 
 ## 2.2 Navegador Chrome
 
-Entrem la configuració del navegador 
+Entrem la configuració del navegador. Punxat en **···** i despreś **Configuració**
 
 
 ![*Imatge 4: Opció configuració de Chrome*](png/1-Chrome-Configuracio.png)
@@ -121,9 +123,9 @@ Una vegada estem en la configuració del navegador, busquem "motor" i seleccione
 
 ### Pàgina d'inici
 
-Per fer ús del buscador còmodament, a banda del motor, podem canviar la pàgina d'inici predeterminada.
+A banda del motor, podem canviar la pàgina d'inici predeterminada.
 
-Des de l mateixa configuració, seleccionem "Inici" i escrivim la pàgina de ecosia.org
+Des de la mateixa configuració, seleccionem "Inici" i escrivim la pàgina de ecosia.org
 
 
 ![*Imatge 6 Pàgina d'inici en Chrome*](png/3-Chrome-Inici.png)
@@ -157,7 +159,7 @@ Punxem en els **···** i seleccionem **Configuració**
 
 # 3 🧩 Extensió d'Ecosia
 
-La extensió **NO és necessària** per treballar amb Ecosia però ofereix: 
+L'extensió **NO és necessària** per treballar amb Ecosia però ofereix: 
 
 * Comptador d’arbres plantats.
 * Configuració més ràpida i fàcil.
