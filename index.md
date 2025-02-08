@@ -29,4 +29,4 @@ linestretch: 1.5
 
 ||||
 |:----|:--|:--|
-|ECOSIA|[![](recursos/iconohtml.png)](ECOSIA/ecosia.html)|[![](recursos/iconopdf.png)](ECOSIA/ecosia.pdf)|
+|ECOSIA. Configuració a Firefox, Chrome i Edge|[![](recursos/iconohtml.png)](ECOSIA/ecosia.html)|[![](recursos/iconopdf.png)](ECOSIA/ecosia.pdf)|
