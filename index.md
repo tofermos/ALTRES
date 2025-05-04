@@ -30,3 +30,4 @@ linestretch: 1.5
 ||||
 |:----|:--|:--|
 |ECOSIA. Configuració a Firefox, Chrome i Edge|[![](recursos/iconohtml.png)](ECOSIA/ecosia.html)|[![](recursos/iconopdf.png)](ECOSIA/ecosia.pdf)|
+|PIM. Projecte intermodular. 2 SMX|[![](recursos/iconohtml.png)](PIM/PIM.html)|[![](recursos/iconopdf.png)](PIM/PIM.pdf)|
